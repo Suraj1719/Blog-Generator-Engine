@@ -1,11 +1,15 @@
-1. streamlit : pip install streamlit
-2. langchain : pip install langchain
-3. ctransformers : pip install ctransformers
+Install all these Python Libraries.
 
+1. streamlit: pip install streamlit
+2. langchain: pip install langchain
+3. ctransformers: pip install transformers
+
+
+After that, you can use the given link to download purpose of Llama2 modules according to your device compatibility.
 
 For modules:
 
-# link to models : - https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+# link to models: - https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
 
 
