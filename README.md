@@ -18,6 +18,10 @@ Link:https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
 
 
+After the installation of modules, modules should be in the same folder as the Python file, and update the module name as your module. See the below picture.
+
+![Screenshot 2024-04-10 163808](https://github.com/Suraj1719/Blog-Generator-Engine/assets/101680569/b054a914-bf5b-479e-9b32-6a39860910ba)
+
 
 This is the User Interface where the user asks about the topic and finds the Blog result.
 
