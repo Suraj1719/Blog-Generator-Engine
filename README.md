@@ -1,3 +1,3 @@
-This is a Blog Generating Engine which can take users request topic and give a blog on that.
+This is a Blog Generating Engine that can take users' request topics and give a blog on that.
 
-Build SetUp
+Build Setup
